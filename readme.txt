@@ -10,7 +10,8 @@ This is all the information I knew before I began:
 Based on the information I had, I decided that I’d plot a line graph for all individuals who performed the Standing activity over a time period with respect to a feature. I took the feature as the angle between X and mean Gravity, which should stay almost constant except for minor changes due to human error.
 
 In this project, I did Activity Recognition using kaggle dataset, drew visualisations from the dataset and used machine learning algorithms for classifying activities. As per the results, Logistic Regression achieved the highest accuracy of 96%.
-**I then got the data from one of my friend in University who collected some data using IMU 9250 sensor which has accelerometer and gyroscope mounted on it. The data was small but I was able to apply Machine Learning algorithms on it and get 100% accuracy. This small dataset has only 3 activities, 'Stand','Run','Walk'. **
+
+I then got the data from one of my friend in University who collected some data using IMU 9250 sensor which has accelerometer and gyroscope mounted on it. The data was small but I was able to apply Machine Learning algorithms on it and get 100% accuracy. This small dataset has only 3 activities, 'Stand'==1,'Walk'==2,'Run'==3. The dataset I have included above as Combined_data
 
 I belive that using Machine Learning techniques to detect human activities can give much better accuracy and easy to use rather than the traditional threshold technique.
 
